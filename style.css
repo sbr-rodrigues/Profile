@@ -38,12 +38,12 @@ ul {
 }
 
 .menu {
-  width: 80%;
+  width: 90%;
   background-color: rgb(4, 8, 114);
   margin-left: auto;
   margin-right: auto;
-  padding: 20px;
-  max-width: 800px;
+  padding: 40px;
+  max-width: 900px;
 }
 
 img {
@@ -82,4 +82,5 @@ a:hover {
 
 a:active {
   color: rgb(67, 53, 176);
+
 }
