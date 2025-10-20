@@ -59,7 +59,7 @@ img {
 }
 
 .icon {
-  width: 80px; /* Ajuste o tamanho conforme desejar */
+  width: 10px; /* Ajuste o tamanho conforme desejar */
   height: auto;
 }
 
@@ -76,6 +76,7 @@ h1, h2, h3, p {
 footer {
   font-size: 14px;
 }
+
 
 
 
