@@ -67,7 +67,8 @@ img {
 }
 
 .icon:hover {
-  transform: scale(1.1); /* Efeito suave ao passar o mouse */
+  transform: scale(1.1);
+  filter: drop-shadow(0 0 6px #4da6ff);
 }
 
 hr {
@@ -83,6 +84,7 @@ h1, h2, h3, p {
 footer {
   font-size: 14px;
 }
+
 
 
 
