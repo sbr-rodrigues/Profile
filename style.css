@@ -10,13 +10,13 @@ body {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 60px;
   margin-top: 0;
   margin-bottom: 15px;
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .established {
@@ -61,27 +61,14 @@ hr {
 }
 
 
-h1, h2 {
-  font-family: Impact, serif;
+h1, h2, p {
+  font-family: Tahoma;
 }
 
 footer {
   font-size: 14px;
 }
 
-a {
-  color: rgb(246, 246, 248);
-}
 
-a:visited {
-  color: rgb(252, 249, 249);
-}
 
-a:hover {
-  color: rgb(67, 53, 176);
-}
-
-a:active {
-  color: rgb(67, 53, 176);
-}
 
