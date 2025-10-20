@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://raw.githubusercontent.com/sbr-rodrigues/Profile/refs/heads/main/Portif%C3%B3lio%20Backgroup%20Sabrina%20Rodrigues.jpg);
+background-image: url(https://raw.githubusercontent.com/sbr-rodrigues/Profile/refs/heads/main/Portif%C3%B3lio%20Backgroup%20Sabrina%20Rodrigues.jpg);
  width: 100%;
   height: 100vh;
   margin: 0;
@@ -29,14 +29,8 @@ h2 {
 
 h1, h2, p, legend {
   margin: 1em auto;
-  text-align: center;
   color: white;
 }
-
-ul {
-  color: white;
-}
-
 .menu {
   width: 90%;
   background-color: rgba(0, 51, 102, 0.9);
@@ -60,7 +54,6 @@ hr {
   border-color: rgb(240, 240, 245);
 }
 
-
 h1, h2, p {
   font-family: Tahoma;
 }
@@ -68,6 +61,7 @@ h1, h2, p {
 footer {
   font-size: 14px;
 }
+
 
 
 
