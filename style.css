@@ -55,12 +55,19 @@ img {
   justify-content: center;
   align-items: center;
   gap: 20px; /* Espaço entre os ícones */
+  flex-wrap: wrap; /* Quebra em telas menores */
   margin-top: 20px;
+  padding: 10px;
 }
 
 .icon {
-  width: 10px; /* Ajuste o tamanho conforme desejar */
+  width: 10px; /* Tamanho uniforme */
   height: auto;
+  transition: transform 0.3s ease;
+}
+
+.icon:hover {
+  transform: scale(1.1); /* Efeito suave ao passar o mouse */
 }
 
 hr {
@@ -76,6 +83,7 @@ h1, h2, h3, p {
 footer {
   font-size: 14px;
 }
+
 
 
 
