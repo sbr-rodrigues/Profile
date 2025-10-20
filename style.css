@@ -50,6 +50,18 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Espaço entre os ícones */
+  margin-top: 20px;
+}
+
+.icon {
+  width: 80px; /* Ajuste o tamanho conforme desejar */
+  height: auto;
+}
 
 hr {
   height: 2px;
@@ -64,6 +76,7 @@ h1, h2, h3, p {
 footer {
   font-size: 14px;
 }
+
 
 
 
