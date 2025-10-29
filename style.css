@@ -29,7 +29,11 @@ h2 {
   text-align: center;
   padding: 20px;
 }
-
+hr {
+  height: 2px;
+  background-color: rgb(252, 251, 255);
+  border-color: rgb(240, 240, 245);
+}
 h3, p {
   margin: 1em auto;
   color: white;
@@ -84,6 +88,7 @@ h1, h2, h3, p {
 footer {
   font-size: 14px;
 }
+
 
 
 
