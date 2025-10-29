@@ -1,13 +1,18 @@
-body {
-background-image: url(https://raw.githubusercontent.com/sbr-rodrigues/Profile/refs/heads/main/Portif%C3%B3lio%20Backgroup%20Sabrina%20Rodrigues.jpg);
- width: 100%;
-  height: 100vh;
-  margin: 0;
-  color: #f5f6f7;
-  font-size: 20px;
-  font-family: 'Montserrat', sans-serif;;
-  padding: 20px;
-}
+ body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      background: url('https://raw.githubusercontent.com/sbr-rodrigues/Profile/refs/heads/main/Wallpaper%20-%20Sabrina%20Rodrigues.gif') no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: Arial, sans-serif;
+      font-size: 2rem;
+      backdrop-filter: brightness(1.2);
+    }
 
 h1 {
   font-size: 60px;
@@ -88,6 +93,7 @@ h1, h2, h3, p {
 footer {
   font-size: 14px;
 }
+
 
 
 
